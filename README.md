@@ -11,12 +11,9 @@ The goal of this project is to automatically categorize news articles into speci
 Data Cleaning and Preprocessing
 
 - Remove irrelevant information like HTML tags, advertisements, and non-text content.
-- 
--Tokenize the text and remove stop words.
-
--Perform lemmatization or stemming to reduce words to their base form.
-
--Handle missing data and ensure a consistent format.
+- Tokenize the text and remove stop words.
+- Perform lemmatization or stemming to reduce words to their base form.
+- Handle missing data and ensure a consistent format.
 
 Text Representation
 
