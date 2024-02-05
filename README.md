@@ -1,4 +1,4 @@
-#BBC news classifier
+BBC news classifier
 
 Overview
 
